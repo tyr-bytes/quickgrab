@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS staging_folders;
+DROP TABLE IF EXISTS staging_files;
+DELETE FILES;
+DELETE FOLDERS;
